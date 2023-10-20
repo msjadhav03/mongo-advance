@@ -33,6 +33,22 @@ db.system.profile.find()
 show profile
 ```
 
+# References
+[MongoDB Database Profiling](https://www.mongodb.com/docs/manual/tutorial/manage-the-database-profiler/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Performance Advisor
